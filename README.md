@@ -1,4 +1,4 @@
-**Note:** The top-to-bottom and bottom-to-top animations might take a moment to load. We appreciate your patience for a seamless experience.
+**Note:**  The top-to-bottom and bottom-to-top animations might take a moment to load. We appreciate your patience for a seamless experience.
 
 ---
 
